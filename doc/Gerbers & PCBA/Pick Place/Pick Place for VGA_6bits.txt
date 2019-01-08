@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations
+D:\d\WK\Altium\_Projects\VGA_6bits\Outputs\Pick Place\Pick Place for VGA_6bits.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/01/19
+Time:       21:08
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                    Layer    Footprint                    Center-X(mm) Center-Y(mm) Rotation Description                             
+R4         Resistor                   TopLayer R0603                        20.3000      13.1500      90       "Resistor, SMD"                         
+R3         Resistor                   TopLayer R0603                        18.7000      13.1500      90       "Resistor, SMD"                         
+R1         "470R ±5% 0,0625W"         TopLayer 4xArray_1206_Convex          11.2000      13.1000      360      Resistor                                
+R2         "1K ±5% 0,0625W"           TopLayer 4xArray_1206_Convex          15.6000      13.1000      360      Resistor                                
+J2         "1x8 Socket Header 2.54mm" TopLayer 1x8_Socket_Header_THT_2.54mm 16.0100      6.8800       0        "Connector, 8 pin Socket Header 2.54mm" 
+J1         "1x8 Socket Header 2.54mm" TopLayer 1x8_Socket_Header_THT_2.54mm 16.0100      1.8000       0        "Connector, 8 pin Socket Header 2.54mm" 
+J3         VGA_Socket                 TopLayer VGA_RA_SLIM                  15.9700      21.8000      360      ""                                      

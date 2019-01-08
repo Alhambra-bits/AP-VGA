@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\d\WK\Altium\_Projects\VGA_6bits\PCB\VGA_6bits.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=vga_6bits-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=vga_6bits-slotholes.txt|DrillLayers=gtl,gbl
